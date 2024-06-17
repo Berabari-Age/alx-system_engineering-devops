@@ -1,0 +1,2 @@
+#!/bin/bash
+(ls -al grep -v '^\. grep -v '^\.\. sort -v echo .; echo ..)awk {if (system("[ -d \""$0\"]") == 0) print $0"\"; else print $0}' sort -v tr '\n' ',' sed '\,$\/n\'
